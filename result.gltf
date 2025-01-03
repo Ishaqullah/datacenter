@@ -51054,7 +51054,7 @@
     "buffers": [
         {
             "byteLength": 114566724,
-            "uri": "result.bin"
+            "uri": "https://reon-assets.s3.ap-southeast-1.amazonaws.com/dataCenterBinary/result.bin"
         }
     ],
     "bufferViews": [
